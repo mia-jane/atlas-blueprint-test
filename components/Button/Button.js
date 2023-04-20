@@ -40,7 +40,7 @@ export default function Button({
     return (
       <Link href={href}>
         <a role="button" href={href} className={buttonClassName} {...props}>
-          {children}
+          hey
         </a>
       </Link>
     );
